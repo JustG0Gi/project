@@ -1,0 +1,44 @@
+body {
+    background: #403EE1;
+	margin-left:300px;
+	margin-right:300px;
+}
+.block {
+	display:inline-block;
+	background:white;
+	padding-bottom:40px;
+	padding-left:30px;
+	padding-right:30px;
+}
+h2 {
+    color:red;
+}
+li {
+    display:inline-block;
+    text-align:center;
+	font-size:20pt;
+}	
+.square3 {
+	
+	margin-right:10px;
+}
+.square2 {
+	margin-right:4px;
+}
+span.qadrat2 {
+	display:block;
+	background: #f447ff;
+	width:140px;
+	height:60px;
+	color:white;
+	padding-top:30px;
+}
+span.qadrat {
+	display:block;
+	background: #f447ff;
+	width:100px;
+	height:65px;
+	color:white;
+	padding-top:30px;
+}
+
